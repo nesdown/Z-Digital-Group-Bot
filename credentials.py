@@ -1,2 +1,2 @@
 import telebot
-bot = telebot.TeleBot('707197894:AAEBaNdTzwtyKoZMYv_9GFkyRaYfaul1XPE')
+bot = telebot.TeleBot('api_key')
